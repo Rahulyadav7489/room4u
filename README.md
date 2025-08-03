@@ -1,6 +1,6 @@
 # room4u
 
-# Descriptiom
+# Description
 A web application similar to Airbnb that allows users to list and book rental rooms. Built using Node.js, Express.js, MongoDB, EJS, and Passport.js for authentication.
 
 ## Features
